@@ -1,0 +1,2 @@
+# makimaki12
+testnet
